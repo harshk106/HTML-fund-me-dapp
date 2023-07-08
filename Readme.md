@@ -21,6 +21,12 @@ Confused? You can run `git checkout nodejs-edition` if you'd like to see this wi
 # Quickstart
 
 1. Clone the repo
+   
+```
+git clone https://github.com/harshk106/HTML-fund-me-dapp
+cd html-fund-me-fcc
+```
+OR
 
 ```
 git clone https://github.com/PatrickAlphaC/html-fund-me-fcc
